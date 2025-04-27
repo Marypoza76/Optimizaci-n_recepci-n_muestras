@@ -59,3 +59,24 @@ Proposed Solutions
     Implement a machine learning-based system to predict and balance workloads.
 
     Prioritize urgent sample types during high-demand periods.
+How to Run This Project
+
+    Clone the repository:
+    bash
+git clone https://github.com/Marypoza76/Optimizaci-n_recepci-n_muestras.git
+Navigate to the project directory:
+cd Optimizaci-n_recepci-n_muestras
+Set up the Python environment:
+pip install -r requirements.txt
+Run the main script:
+python main.py
+Contributing
+
+Contributions are welcome! If you’d like to improve this project, feel free to fork the repository, make your changes, and submit a pull request.
+Contact
+
+For questions or feedback, feel free to reach out:
+
+    Author: Marilyn
+
+    Email: [ponssonmarilyn@gmail.com]
