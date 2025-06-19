@@ -13,5 +13,9 @@
 
 **Aplicación en salud real**:  
 - Ideal para laboratorios con alto volumen de muestras.  
-- Puede adaptarse a EHRs como Epic o Cerner.  
+- Puede adaptarse a EHRs como Epic o Cerner.
+
+ **Video explicativo**:
+ https://ai.invideo.io/watch/YOmSCKiMxZD
+ 
 
